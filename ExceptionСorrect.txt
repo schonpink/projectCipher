@@ -1,0 +1,5 @@
+
+public class ExceptionСorrect extends Throwable {
+    public ExceptionСorrect(String str) { super(str);
+    }
+}
